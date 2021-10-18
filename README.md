@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="96">
       <a alt="React Framework" href="https://reactjs.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/React.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="React Framework"></a>
-      <br />React
+      <br /><br />React
     </td>
     <td align="center" width="96">
       <a alt="Git Software" href="https://git-scm.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Git.png?raw=true" width="48" height="48" alt="Git Software"></a>
@@ -113,7 +113,7 @@
     </td>
     <td align="center" width="96">
       <a alt="Github Software" href="https://github.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Github.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Github Software"></a>
-      <br />Github
+      <br /><br />Github
     </td>
     <td align="center" width="96">
       <a alt="VS Code Software" href="https://code.visualstudio.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/VS-Code.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="VS Code Software"></a>
