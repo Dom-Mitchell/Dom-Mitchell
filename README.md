@@ -156,6 +156,8 @@ Copy and paste this link into the search bar for whatever browser you are using.
 
 <br/>
 
+<a alt="Back to Top!" href="#"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Tools.svg" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!"></a>
+
 [Back to Top!](#)
 
 <!-- **I'm a Night 🦉**
