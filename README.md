@@ -267,7 +267,7 @@ Copy and paste this link into the search bar for whatever browser you are using.
 
 <br/>
 
-<a align="center" alt="Back to Top!" style="background-color:#e4d28c; border-radius: 50px; padding: 5px; letter-spacing: 3px; margin: 5px; width: 400; align-items: center; text-align: center justify-content: center; color:#fff; font-size: 30px; text-decoration: none; text-decoration: none;" cursor="pointer;" href="#">
+<a align="center" alt="Back to Top!" href="#">
 <!-- <button style="background-color:#e4d28c; border-radius: 50px; padding: 5px; letter-spacing: 3px; margin: 5px; width: 500; display: flex; align-items: center; text-align: center justify-content: center; color:#fff; font-size: 30px; text-decoration: none;"> -->
 <img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Back-to-Top-(NB).png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!">
 Back To Top!
