@@ -54,8 +54,8 @@
 <table>
   <tr>
   <td align="center" width="96">
-      <a alt="C# Language" href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/C-sharp.svg" width="48" height="48" alt="C# Language" />
+      <a alt="PowerShell Software" href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/abc63df8bd8aec8615cedf01cf7f1bbc450c93c8/Images/PowerShell.svg" width="48" height="48" alt="PowerShell Software" />
       </a>
       <br />PowerShell
     </td>
@@ -86,28 +86,50 @@
       <br />HTML5
     </td>
     <td align="center" width="96">
-      <a alt="CSS3 Language" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/CSS3.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="CSS3 Language"></a>
+      <a alt="CSS3 Language" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/CSS3.png?raw=true" width="48" height="48" alt="CSS3 Language"></a>
       <br />CSS3
     </td>
     <td align="center" width="96">
-      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
-      <br />Insomnia
+      <a alt="SCSS/SASS Language" href="https://sass-lang.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Sass-SCSS.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="SCSS/SASS Language"></a>
+      <br />SCSS/SASS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a alt="Javascript Language" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="Javascript Language"></a>
+      <br />Javascript
     </td>
     <td align="center" width="96">
-      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
-      <br />Insomnia
+      <a alt="Typescript Language" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="Typescript Language"></a>
+      <br />Typescript
     </td>
     <td align="center" width="96">
-      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
-      <br />Insomnia
+      <a alt="React Framework" href="https://reactjs.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/React.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="React Framework"></a>
+      <br />React
     </td>
     <td align="center" width="96">
-      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
-      <br />Insomnia
+      <a alt="Git Software" href="https://git-scm.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Git.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Git Software"></a>
+      <br />Git
     </td>
     <td align="center" width="96">
-      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
-      <br />Insomnia
+      <a alt="Github Software" href="https://github.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Github.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Github Software"></a>
+      <br />Github
+    </td>
+    <td align="center" width="96">
+      <a alt="VS Code Software" href="https://code.visualstudio.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/VS-Code.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="VS Code Software"></a>
+      <br />VS Code
+    </td>
+    <td align="center" width="96">
+      <a alt="Python Language" href="https://www.python.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Python.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Python Language"></a>
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <a alt="Java Language" href="https://www.java.com/en/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Java.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Java Language"></a>
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <a alt="BlueJ Software" href="https://www.bluej.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/BlueJ.jpeg?raw=true" height="40" style="vertical-align:down; margin:4px" alt="BlueJ Software"></a>
+      <br />BlueJ
     </td>
 </table>
 
