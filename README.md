@@ -1,6 +1,12 @@
 ![Header Typing SVG](https://svg-text-dom-mitchell.herokuapp.com?vCenter=true&Center=true&width=850&height=60&font=sora&size=60&lines=Hey+there!;This+is+my+profile+README.;Thanks+for+visiting!)
 
-<h2 align="center">| <a alt="Contacts" href="#connect-with-me">Contact</a> | <a alt="About Me" href="#about-me">About Me</a> | <a alt="Languages/Skills" href="#languages-and-tools">Languages</a> | <a alt="Stats" href="#stats">Stats</a> | <a alt="Tools" href="#tools-used">Tools</a> | <a alt="Manual Links" href="#broken-links">Manual Links</a> |</h2>
+<h2 align="center">
+
+| <a alt="Contacts" href="#connect-with-me">Contact</a> | <a alt="About Me" href="#about-me">About Me</a> | <a alt="Languages/Skills" href="#languages-and-tools">Languages</a> | <a alt="Stats" href="#stats">Stats</a> | <a alt="Tools" href="#tools-used">Tools</a> | <a alt="Manual Links" href="#broken-links">Manual Links</a> |
+
+</h2>
+
+<!-- <button>Hi</button> -->
 
 ## Connect with me
 
@@ -44,6 +50,72 @@
 <br /><br />
 
 ## Languages and Tools
+
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a alt="C# Language" href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/C-sharp.svg" width="48" height="48" alt="C# Language" />
+      </a>
+      <br />PowerShell
+    </td>
+    <td align="center" width="96">
+      <a alt="C# Language" href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/C-sharp.svg" width="48" height="48" alt="C# Language" />
+      </a>
+      <br />C#&nbsp;(Core)
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" width="48" height="48" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+    <td align="center" width="96">
+     <a alt="SQL Language" href="https://www.w3schools.com/sql/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/SQL.png?raw=true" width="48" height="48" alt="SQL Language"></a>
+      <br />SQL
+    </td>
+    <td align="center" width="96">
+      <a alt="PostgreSQL Language" href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/PostgreSQL.svg" height="40" style="vertical-align:down; margin:4px" alt="PostgreSQL Language"></a>
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Beekeeper-Studio.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Beekeeper Studio Software"></a>
+      <br />Beekeeper
+    </td>
+    <td align="center" width="96">
+      <a alt="HTML5 Language" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/HTML5.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="HTML5 Language"></a>
+      <br />HTML5
+    </td>
+    <td align="center" width="96">
+      <a alt="CSS3 Language" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/CSS3.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="CSS3 Language"></a>
+      <br />CSS3
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+    <td align="center" width="96">
+      <a alt="Insomnia Software" href="https://insomnia.rest/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Insomnia.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Insomnia Software"></a>
+      <br />Insomnia
+    </td>
+</table>
+
+
+<br />
+<br />
+<br />
+<br />
 
 <p>
 <a alt="C# Language" href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/C-sharp.svg" height="40" style="vertical-align:down; margin:4px" alt="C# Language"></a>
