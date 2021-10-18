@@ -74,15 +74,15 @@
       <br />SQL
     </td>
     <td align="center" width="96">
-      <a alt="PostgreSQL Language" href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/PostgreSQL.svg" height="40" style="vertical-align:down; margin:4px" alt="PostgreSQL Language"></a>
+      <a alt="PostgreSQL Language" href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/PostgreSQL.svg" width="48" height="48" alt="PostgreSQL Language"></a>
       <br />PostgreSQL
     </td>
     <td align="center" width="96">
-      <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Beekeeper-Studio.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Beekeeper Studio Software"></a>
+      <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Beekeeper-Studio.png?raw=true" width="48" height="48" alt="Beekeeper Studio Software"></a>
       <br />Beekeeper
     </td>
     <td align="center" width="96">
-      <a alt="HTML5 Language" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/HTML5.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="HTML5 Language"></a>
+      <a alt="HTML5 Language" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/HTML5.png?raw=true" width="48" height="48" alt="HTML5 Language"></a>
       <br />HTML5
     </td>
     <td align="center" width="96">
@@ -90,17 +90,17 @@
       <br />CSS3
     </td>
     <td align="center" width="96">
-      <a alt="SCSS/SASS Language" href="https://sass-lang.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Sass-SCSS.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="SCSS/SASS Language"></a>
+      <a alt="SCSS/SASS Language" href="https://sass-lang.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Sass-SCSS.png?raw=true" width="48" height="48" alt="SCSS/SASS Language"></a>
       <br />SCSS/SASS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a alt="Javascript Language" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="Javascript Language"></a>
+      <a alt="Javascript Language" href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Javascript.svg" width="48" height="48" alt="Javascript Language"></a>
       <br />Javascript
     </td>
     <td align="center" width="96">
-      <a alt="Typescript Language" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="Typescript Language"></a>
+      <a alt="Typescript Language" href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/97dc53f28f067d0bf726c60dfc8ffecfab64defc/Images/Typescript.svg" width="48" height="48" alt="Typescript Language"></a>
       <br />Typescript
     </td>
     <td align="center" width="96">
@@ -108,7 +108,7 @@
       <br />React
     </td>
     <td align="center" width="96">
-      <a alt="Git Software" href="https://git-scm.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Git.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Git Software"></a>
+      <a alt="Git Software" href="https://git-scm.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Git.png?raw=true" width="48" height="48" alt="Git Software"></a>
       <br />Git
     </td>
     <td align="center" width="96">
@@ -120,19 +120,18 @@
       <br />VS Code
     </td>
     <td align="center" width="96">
-      <a alt="Python Language" href="https://www.python.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Python.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Python Language"></a>
+      <a alt="Python Language" href="https://www.python.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Python.png?raw=true" width="48" height="48" alt="Python Language"></a>
       <br />Python
     </td>
     <td align="center" width="96">
-      <a alt="Java Language" href="https://www.java.com/en/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Java.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Java Language"></a>
+      <a alt="Java Language" href="https://www.java.com/en/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Java.png?raw=true" width="48" height="48" alt="Java Language"></a>
       <br />Java
     </td>
     <td align="center" width="96">
-      <a alt="BlueJ Software" href="https://www.bluej.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/BlueJ.jpeg?raw=true" height="40" style="vertical-align:down; margin:4px" alt="BlueJ Software"></a>
+      <a alt="BlueJ Software" href="https://www.bluej.org/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/BlueJ.jpeg?raw=true" width="48" height="48" alt="BlueJ Software"></a>
       <br />BlueJ
     </td>
 </table>
-
 
 <br />
 <br />
