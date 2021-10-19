@@ -11,24 +11,61 @@
 ## Connect with me
 
 <!-- LinkedIn Account -->
-<a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">
+<table align="center">
+  <tr>
+  <!-- LinkedIn Profile -->
+  <td align="center" width="96">
+      <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/LinkedIn.svg" width="48" height="48" alt="Domenick Mitchell | LinkedIn" />
+      </a>
+      <br />
+      <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">LinkedIn</a>
+    </td>
+      <!-- Twitter Profile -->
+      <td align="center" width="96">
+      <a alt="Domenick Mitchell | Twitter" href="https://twitter.com/DomMitchell17">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Twitter.svg" width="48" height="48" alt="Domenick Mitchell | Twitter" />
+      </a>
+      <br />
+      <a alt="Domenick Mitchell | Twitter" href="https://twitter.com/DomMitchell17">Twitter</a>
+    </td>
+      <!-- Facebook Profile -->
+      <td align="center" width="96">
+      <a alt="Domenick Mitchell | Facebook" href="https://www.facebook.com/domenick.mitchell.7/">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Facebook.svg" width="48" height="48" alt="Domenick Mitchell | Facebook" />
+      </a>
+      <br />
+      <a alt="Domenick Mitchell | Facebook" href="https://www.facebook.com/domenick.mitchell.7/">Facebook</a>
+    </td>
+      <!-- Résumé Link -->
+      <td align="center" width="96">
+      <a alt="Domenick Mitchell | Résumé" href="https://github.com/Domanator13/Resumes">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/516e5b7741eb1eec42ea802e0db4cedd43dab404/Images/SVGs/Resume.svg" width="48" height="48" alt="Domenick Mitchell | Résumé" />
+      </a>
+      <br />
+      <a alt="Domenick Mitchell | Résumé" href="https://github.com/Domanator13/Resumes">Résumé</a>
+    </td>
+</table>
+
+<!-- LinkedIn Account -->
+<!-- <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">
   <img align="left" alt="Domenick Mitchell | LinkedIn" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/LinkedIn.svg" />
-</a>
+</a> -->
 
 <!-- Twitter Account -->
-<a alt="Domenick Mitchell | Twitter" href="https://twitter.com/DomMitchell17">
+<!-- <a alt="Domenick Mitchell | Twitter" href="https://twitter.com/DomMitchell17">
   <img align="left" alt="Domenick Mitchell | Twitter" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Twitter.svg" />
-</a>
+</a> -->
 
 <!-- Facebook Account -->
-<a alt="Domenick Mitchell | Facebook" href="https://www.facebook.com/domenick.mitchell.7/">
+<!-- <a alt="Domenick Mitchell | Facebook" href="https://www.facebook.com/domenick.mitchell.7/">
   <img align="left" alt="Domenick Mitchell | Facebook" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Facebook.svg" />
-</a>
+</a> -->
 
 <!-- Résumé Link -->
-<a alt="Domenick Mitchell | Résumé" href="https://github.com/Domanator13/Resumes">
+<!-- <a alt="Domenick Mitchell | Résumé" href="https://github.com/Domanator13/Resumes">
   <img align="left" alt="Domenick Mitchell | Résumé" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/516e5b7741eb1eec42ea802e0db4cedd43dab404/Images/SVGs/Resume.svg" />
-</a>
+</a> -->
 
 <br />
 
