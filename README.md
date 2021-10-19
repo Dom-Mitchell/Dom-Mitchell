@@ -220,7 +220,7 @@
 ## Stats
 
 <!-- <p > -->
-<img align="right" style="vertical-align:down; margin-top:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
+<img align="right" style="vertical-align:down; margin-top: 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
 
 <!-- </p> -->
 
@@ -234,7 +234,7 @@
 
 <!-- </p> -->
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 > **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
