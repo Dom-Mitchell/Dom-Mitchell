@@ -145,7 +145,7 @@
       <a alt="Java Language" href="https://www.java.com/en/">Java</a>
     </td>
     <td align="center" width="96">
-      <a alt="BlueJ Software" href="https://www.bluej.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/e5c9afd8403e5aaa469f415c6b9a8f1cf55b6227/Images/SVGs/BlueJ.svg" width="48" height="48" alt="BlueJ Software"></a>
+      <a alt="BlueJ Software" href="https://www.bluej.org/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/2a0ca632c9e26777dc0da22fe0a4179cac8b8a7b/Images/SVGs/BlueJ.svg" width="48" height="48" alt="BlueJ Software"></a>
       <br />
       <a alt="BlueJ Software" href="https://www.bluej.org/">BlueJ</a>
     </td>
