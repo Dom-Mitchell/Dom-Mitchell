@@ -221,6 +221,11 @@
 
 <!-- <p align="left"> -->
 
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
+
+</p>
+
 <img src="https://github-readme-stats-domanator13.vercel.app/api?username=Dom-Mitchell&show_icons=true&theme=vue-dark" alt="Github Stats" />
 
 <img src="https://streaks-dom-mitchell.herokuapp.com?user=Dom-Mitchell&theme=vue-dark" alt="Github Streak" />
@@ -229,11 +234,7 @@
 
 <!-- </p> -->
 
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
-
 > **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 
 <!-- <table align="center">
   <tr> -->
