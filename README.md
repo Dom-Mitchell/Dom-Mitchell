@@ -35,7 +35,7 @@
 ## About Me
 
 <!-- Coder GIF -->
-<img align="left" alt="Coder GIF" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Coding.gif?raw=true" width="500" height="320" />
+<img align="left" alt="Coder GIF" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/GIFs/Coding.gif?raw=true" width="500" height="320" />
 
 <!-- Fun Facts -->
 
