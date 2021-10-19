@@ -236,14 +236,14 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p>
-<font size="4">
+<!-- <p>
+<font size="4"> -->
 
-> **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-</font>
-</p>
+<!-- </font>
+</p> -->
 
 <!-- <table align="center">
   <tr> -->
