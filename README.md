@@ -50,7 +50,7 @@
 - I've lived in four different states.
 - I'm currently learning about Material UI.
 
-<br /><br /><br />
+<br />
 
 ## Languages and Tools
 
