@@ -18,4 +18,4 @@ This is where you can find the different tools and things I have used for this R
 
 ## **Please Note**:
 
-The creators of some of the above tools have requested that you fork their repository and deploy it on your own to prevent downtime and rate limiting issues. So please be mindful and follow their step by step instructions if they have made this request.
+> The creators of some of the above tools have requested that you fork their repository and deploy it on your own to prevent downtime and rate limiting issues. So please be mindful and follow their step by step instructions if they have made this request.
