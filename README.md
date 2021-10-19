@@ -47,7 +47,7 @@
 - I like to travel in my free time to different states, countries, and national parks.
 - I've lived in four different states.
 
-<br /><br />
+<br /><br /><br />
 
 ## Languages and Tools
 
