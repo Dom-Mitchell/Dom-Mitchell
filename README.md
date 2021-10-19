@@ -12,17 +12,17 @@
 
 <!-- LinkedIn Account -->
 <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">
-  <img align="left" alt="Domenick Mitchell | LinkedIn" height="40" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/LinkedIn.png?raw=true" />
+  <img align="left" alt="Domenick Mitchell | LinkedIn" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/LinkedIn.svg" />
 </a>
 
 <!-- Twitter Account -->
 <a alt="Domenick Mitchell | Twitter" href="https://twitter.com/DomMitchell17">
-  <img align="left" alt="Domenick Mitchell | Twitter" height="40" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Twitter.png?raw=true" />
+  <img align="left" alt="Domenick Mitchell | Twitter" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Twitter.svg" />
 </a>
 
 <!-- Facebook Account -->
 <a alt="Domenick Mitchell | Facebook" href="https://www.facebook.com/domenick.mitchell.7/">
-  <img align="left" alt="Domenick Mitchell | Facebook" height="40" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Facebook.png?raw=true" />
+  <img align="left" alt="Domenick Mitchell | Facebook" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/Facebook.svg" />
 </a>
 
 <!-- Résumé Link -->
