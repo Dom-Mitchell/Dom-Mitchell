@@ -48,6 +48,7 @@
 - I have three dogs named, Chloé, Leo, and Jabba.
 - I like to travel in my free time to different states, countries, and national parks.
 - I've lived in four different states.
+- I'm currently learning about Material UI.
 
 <br /><br /><br />
 
