@@ -39,7 +39,7 @@
 
 <!-- Fun Facts -->
 
-- I'm a recent graduate from [<font color='#b1d133'>S</font><font color='#85577e'>D</font><font color='#80ced2'>G</font>](https://suncoast.io/), Suncoast Developers Guild.
+- I'm a recent graduate from <a href="https://suncoast.io/" alt="SDG"><font color='#b1d133'>S</font><font color='#85577e'>D</font><font color='#80ced2'>G</font></a>, Suncoast Developers Guild.
 - I've been coding since I was in middle school.
 - I'm a veteran from the US Navy.
 - I'm the oldest of five, I have two brothers and two sisters.
