@@ -83,7 +83,7 @@
       <a alt="PostgreSQL Language" href="https://www.postgresql.org/">PostgreSQL</a>
     </td>
     <td align="center" width="96">
-      <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Beekeeper-Studio.png?raw=true" width="48" height="48" alt="Beekeeper Studio Software"></a>
+      <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/5ef8286a3eda26d4b723d960db4e53a51a2404b9/Images/SVGs/Beekeeper-Studio.svg" width="48" height="48" alt="Beekeeper Studio Software"></a>
       <br />
       <a alt="Beekeeper Studio Software" href="https://www.beekeeperstudio.io/">Beekeeper</a>
     </td>
