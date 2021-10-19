@@ -1,4 +1,4 @@
-![Header Typing SVG](https://svg-text-dom-mitchell.herokuapp.com?vCenter=true&Center=true&width=850&height=60&font=sora&size=60&lines=Hey+there!;This+is+my+profile+README.;Thanks+for+visiting!)
+![Header Typing SVG](https://svg-text-dom-mitchell.herokuapp.com?vCenter=true&Center=true&width=850&height=60&font=sora&size=60&lines=Hi+there!;This+is+my+profile+README.;Thanks+for+visiting!)
 
 <h2 align="center">
 
@@ -41,6 +41,8 @@
 
 - I'm a recent graduate from <a href="https://suncoast.io/" alt="SDG"><font color='#b1d133'>S</font><font color='#85577e'>D</font><font color='#80ced2'>G</font></a>, Suncoast Developers Guild.
 - I've been coding since I was in middle school.
+- I'm a big fan of ASCII art and SVGs.
+- I enjoy making both frontend and backend projects.
 - I'm a veteran from the US Navy.
 - I'm the oldest of five, I have two brothers and two sisters.
 - I have three dogs named, Chloé, Leo, and Jabba.
@@ -267,15 +269,15 @@ Copy and paste this link into the search bar for whatever browser you are using.
 
 <br/>
 
-<a align="center" alt="Back to Top!" href="#">
+<!-- <a align="center" alt="Back to Top!" href="#"> -->
 <!-- <button style="background-color:#e4d28c; border-radius: 50px; padding: 5px; letter-spacing: 3px; margin: 5px; width: 500; display: flex; align-items: center; text-align: center justify-content: center; color:#fff; font-size: 30px; text-decoration: none;"> -->
-<img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Back-to-Top-(NB).png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!">
+<!-- <img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Back-to-Top-(NB).png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!">
 Back To Top!
-<img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Back-to-Top-(NB).png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!">
+<img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/Back-to-Top-(NB).png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="Back to Top!"> -->
 <!-- </button> -->
-</a>
+<!-- </a> -->
 
-<!-- [Back to Top!](#) -->
+[Back to Top!](#)
 
 <!-- **I'm a Night 🦉**
 
