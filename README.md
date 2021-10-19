@@ -27,7 +27,7 @@
 
 <!-- Résumé Link -->
 <a alt="Domenick Mitchell | Résumé" href="https://github.com/Domanator13/Resumes">
-  <img align="left" alt="Domenick Mitchell | Résumé" height="40" src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/R%C3%A9sum%C3%A9.png?raw=true" />
+  <img align="left" alt="Domenick Mitchell | Résumé" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/516e5b7741eb1eec42ea802e0db4cedd43dab404/Images/SVGs/Resume.svg" />
 </a>
 
 <br />
