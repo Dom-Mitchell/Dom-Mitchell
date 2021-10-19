@@ -219,21 +219,35 @@
 
 ## Stats
 
-<p float="left">
+<p align="left">
 
 <img src="https://github-readme-stats-domanator13.vercel.app/api?username=Dom-Mitchell&show_icons=true&theme=vue-dark" alt="Github Stats" />
 
 <img src="https://streaks-dom-mitchell.herokuapp.com?user=Dom-Mitchell&theme=vue-dark" alt="Github Streak" />
 
-<!-- <br /> -->
-
-</p>
-
-<p float="right">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
 
 > **Note**: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+
+<!-- <br /> -->
+
+</p>
+
+<!-- <table align="center">
+  <tr> -->
+  <!-- LinkedIn Profile -->
+  <!-- <td align="center" width="96">
+      <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">
+        <img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/6fbe2ece4cf5f5a82010ad4cd3e7e96368d1b50d/Images/SVGs/LinkedIn.svg" width="48" height="48" alt="Domenick Mitchell | LinkedIn" />
+      </a>
+      <br />
+      <a alt="Domenick Mitchell | LinkedIn" href="https://www.linkedin.com/in/domenick-mitchell/">LinkedIn</a>
+    </td>
+</table> -->
+
+
 
 <p align="left">
 
