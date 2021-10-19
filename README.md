@@ -39,13 +39,13 @@
 
 <!-- Fun Facts -->
 
-- I'm a recent graduate from `SDG`, Suncoast Developers Guild.
-- I've been coding since I was in middle school off and on.
+- I'm a recent graduate from [<font color='#b1d133'>S</font><font color='#85577e'>D</font><font color='#80ced2'>G</font>](https://suncoast.io/), Suncoast Developers Guild.
+- I've been coding since I was in middle school.
 - I'm a veteran from the US Navy.
 - I'm the oldest of five, I have two brothers and two sisters.
 - I have three dogs named, Chloé, Leo, and Jabba.
 - I like to travel in my free time to different states, countries, and national parks.
-- I've lived in three different states.
+- I've lived in four different states.
 
 <br /><br />
 
