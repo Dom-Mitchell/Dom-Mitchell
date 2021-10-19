@@ -220,8 +220,7 @@
 ## Stats
 
 <!-- <p > -->
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
+<img align="right" style="vertical-align:down; margin:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dom-Mitchell&langs_count=10&theme=vue-dark" alt="Language Stats" />
 
 <!-- </p> -->
 
