@@ -130,7 +130,7 @@
       <a alt="Github Software" href="https://github.com/">Github</a>
     </td>
     <td align="center" width="96">
-      <a alt="VS Code Software" href="https://code.visualstudio.com/"><img src="https://github.com/Dom-Mitchell/Dom-Mitchell/blob/trunk/Images/VS-Code.png?raw=true" height="40" style="vertical-align:down; margin:4px" alt="VS Code Software"></a>
+      <a alt="VS Code Software" href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/814a6fe94ac380be1bd94d6bfdee9471655ac6c0/Images/SVGs/VS-Code.svg" height="40" style="vertical-align:down; margin:4px" alt="VS Code Software"></a>
       <br />
       <a alt="VS Code Software" href="https://code.visualstudio.com/">VS Code</a>
     </td>
