@@ -67,7 +67,7 @@
   <img align="left" alt="Domenick Mitchell | Résumé" height="40" src="https://raw.githubusercontent.com/Dom-Mitchell/Dom-Mitchell/516e5b7741eb1eec42ea802e0db4cedd43dab404/Images/SVGs/Resume.svg" />
 </a> -->
 
-<br />
+<!-- <br /> -->
 
 ## About Me
 
